@@ -1,11 +1,15 @@
 # Code-Blocks-Experiment-2
+
 📡 Implementation of Go-Back-N Protocol – Selective Repeat
 
 🎯 Aim
+
 To write and execute a program for the Go-Back-N protocol using the Selective Repeat technique.
 
 🛠️ Equipments Required
+
 • 	Personal Computer
+
 • 	Turbo C Compiler
 
 📋 Procedure
@@ -23,9 +27,11 @@ Add: netproto and pthread
 7. 	Choose the file and verify the Go-Back-N protocol operation.
 
 💻 Program
+
 #include <stdio.h>
 
 void main() {
+    
     int i, j, n;
     printf("GO BACK N ARQ\n");
     printf("Enter number of frames: ");
@@ -59,4 +65,5 @@ void main() {
 <img width="1236" height="1108" alt="code block 2" src="https://github.com/user-attachments/assets/49621d52-6eda-4d7e-85e0-49a6ad75a1d6" />
 
 ✅ Result
+
 Thus, the Go-Back-N protocol using Selective Repeat was successfully implemented and verified.

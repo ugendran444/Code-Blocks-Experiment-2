@@ -56,7 +56,7 @@ void main() {
 }
 
 🖥️ Sample Output
-https://1drv.ms/i/c/1f2f7a21553b549b/EWe33lkuMyVHkVmC3btZ0qwBmcnnc17FH0wCgWywD_IKGw?e=gakxsd
+<img width="1236" height="1108" alt="code block 2" src="https://github.com/user-attachments/assets/49621d52-6eda-4d7e-85e0-49a6ad75a1d6" />
 
 ✅ Result
 Thus, the Go-Back-N protocol using Selective Repeat was successfully implemented and verified.

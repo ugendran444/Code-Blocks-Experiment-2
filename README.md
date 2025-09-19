@@ -62,7 +62,8 @@ void main() {
 }
 
 🖥️ Sample Output
-![Uploading Screenshot 2023-09-19 at 8.50.16 AM.png…]()
+<img width="1280" height="800" alt="Screenshot 2023-09-19 at 8 50 16 AM" src="https://github.com/user-attachments/assets/598ffd36-13d2-43e5-adf0-293bf2c0d442" />
+
 
 
 ✅ Result

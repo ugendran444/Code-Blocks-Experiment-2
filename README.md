@@ -62,9 +62,7 @@ void main() {
 }
 
 🖥️ Sample Output
-<img width="1280" height="800" alt="Screenshot 2023-09-19 at 8 50 16 AM" src="https://github.com/user-attachments/assets/598ffd36-13d2-43e5-adf0-293bf2c0d442" />
-
-
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/e0de2a5a-e545-4546-8e10-35b902ca1ff5" />
 
 ✅ Result
 
